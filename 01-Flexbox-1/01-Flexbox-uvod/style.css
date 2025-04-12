@@ -18,5 +18,26 @@
     border: 1px dashed red;
     background-color: #ffffcc;
 }
+ .kontejner{
+    display: flex;
+ }
+ /*.druhy {
+    flex-grow: 1;
+ }
+ .treti {
+    flex-grow: 2;
+ }
+    */
+
+    .druhy{
+     
+     flex-basis: 50%;
+    }
+    .ctverecek {
+        flex-basis: 25% ;
+    }
+
+
+
 
 /* ---------------------------------------------------- */
